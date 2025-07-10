@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vitorgomes
 - 👀 I’m interested in work as an iOS developer
 - 🌱 I’m currently learning Swift and SwiftUI
-- 📫 How to reach me vitorgomes_silva@outlook.com or by LinkedIn: https://www.linkedin.com/in/vitor-gomes1/
+- 📫 LinkedIn: https://www.linkedin.com/in/vitor-gomes1/
 
 <!---
 vitorgomes/vitorgomes is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
