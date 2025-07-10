@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vitorgomes
 - 👀 I’m interested in work as an iOS developer
-- 🌱 I’m currently learning Swift and SwiftUI
+- 🌱 I’m currently working with Swift and SwiftUI
 - 📫 LinkedIn: https://www.linkedin.com/in/vitor-gomes1/
 
 <!---
